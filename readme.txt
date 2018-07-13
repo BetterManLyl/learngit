@@ -4,3 +4,5 @@ Git is free software.
 git is a util
 
 git test 2
+
+Git has a mutable index called stage.
