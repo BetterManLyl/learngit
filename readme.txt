@@ -14,3 +14,5 @@ Creating a new branch is quick.
 Creating a new branch is quick2.
 
 Creating a new branch is quick3.
+
+create merge git conflict.
